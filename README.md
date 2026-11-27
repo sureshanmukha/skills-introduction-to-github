@@ -1,4 +1,5 @@
 # Introduction to GitHub
+I am learning Git and GitHub to BUild my data science portfolio.
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
